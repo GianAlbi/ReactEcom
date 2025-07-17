@@ -27,7 +27,10 @@ A complete admin interface for managing e-commerce products with React and React
 - React Router (v6)
 - Context API (State management)
 
+## Installation
 
+1. Clone the repository:
+```bash
 
 
 # Getting Started with Create React App

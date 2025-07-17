@@ -1,3 +1,35 @@
+# React E-Commerce Admin Dashboard
+
+
+A complete admin interface for managing e-commerce products with React and React-Bootstrap.
+
+## Features
+
+- 🛠️ **Product Management**
+  - Create new products via modal form
+  - Delete existing products
+  - View all products in responsive table
+- 🔄 **State Management**
+  - Context API for global state
+  - Loading/error states handling
+- 📱 **Responsive Design**
+  - Works on mobile/tablet/desktop
+- 📊 **Real API Integration**
+  - Uses DummyJSON for demo data
+  - Ready for real backend integration
+
+## Tech Stack
+
+- React 18
+- React-Bootstrap (v2)
+- React Icons
+- Axios (API calls)
+- React Router (v6)
+- Context API (State management)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
